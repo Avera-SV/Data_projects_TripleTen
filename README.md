@@ -9,7 +9,7 @@ Welcome! This repository contains a collection of data analysis projects complet
 | Project Title                                      | Description                                                | Tools Used             | Link                   |
 |----------------------------------------------------|------------------------------------------------------------|------------------------|------------------------|
 | 🏙️ Manhattan Airbnb Market Analysis                 | Identified top-performing neighborhoods & property sizes   | Google Sheets, Excel   | [View Project]|
-| 👩🏻‍🔬 Data Collection and testing                      | Analyze data from competitors, test hypothesis             | SQL    | 
+| 👩🏻‍🔬 Data Collection and Testing                      | Analyze data from competitors, test hypothesis             | SQL    | 
 | 👩🏻‍💻 Business Analytics Project                       | Create conversion funnel, build acquisition cohorts, and calculate retention rates   | Google Sheets, Excel, SQL   |  [View Project]
 | 💡 Superstore Operations Review                     | Review the superstore’s operations and increase its profitability | Tableau, Excel  | [View Project]|
 | 📦 Superstore Returns Dashboard                     | Explored product return trends by category, region, time   | Tableau, Excel         | [View Project]|
